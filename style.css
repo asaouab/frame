@@ -1,0 +1,93 @@
+body
+{
+    background-color:hsl(215, 92%, 10%) ;
+
+}
+.main
+{
+    background-color:hsl(216, 73%, 13%);
+    position:absolute;
+    width: 300px;
+    height: 490px;
+    border-radius: 20px;
+    margin-left: 600px;
+    margin-top:200px;
+    box-shadow: 8px 8px 100px rgba(1, 1, 2, 0.4);
+}
+#white
+{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 18px;
+}
+#image
+{
+    position: relative;
+    border-radius: 14px;
+    margin-left: 38px;
+    margin-top: 20px;
+    width: 220px;
+    height: 220px;
+}
+#par
+{
+    color: rgb(181, 183, 185);
+    padding-left: 18px;
+}
+#try
+{
+    display: inline-block;
+    color:hsl(178, 100%, 50%);
+}
+#time
+{
+    position: absolute;
+    display: inline-block;
+    margin-left:120px;
+    color: rgb(156, 160, 160);
+    font-size: 14px;
+    margin-top: 18px;
+}
+#avatar
+{
+    position: relative;
+    width: 46px;
+    height: 46px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+#article
+{
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    margin-top: 8px;
+    padding-left: 10px;
+    color: rgb(183, 183, 180);
+}
+hr
+{
+    width:260px;
+    height: 1px;
+    border: none; 
+    border-top: 1px solid rgb(97, 94, 94);
+}
+#left
+{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 18px;
+}
+#right
+{
+    padding-left: 18px;
+}
+#last
+{
+    position: relative;
+    color: aliceblue;
+    display: inline-block;
+    font-style:initial;
+    font-size: 14px;
+}
